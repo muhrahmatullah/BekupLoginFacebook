@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447410312064",
+    "firebase_url": "https://bekup-auth.firebaseio.com",
+    "project_id": "bekup-auth",
+    "storage_bucket": "bekup-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447410312064:android:5c627e035c54162c",
+        "android_client_info": {
+          "package_name": "com.rahmat.bekup3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447410312064-9l5vfrcu2kmeta5ko439m7g5ku0h1uft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahmat.bekup3",
+            "certificate_hash": "3D18A44A50BB900E455732A54E067E1CEF401782"
+          }
+        },
+        {
+          "client_id": "447410312064-4jl9tj4hasosids0tii8rjreo71t2idj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNv36u1SxQrKRJO-eLzSHa3add25tkIzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447410312064-4jl9tj4hasosids0tii8rjreo71t2idj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
